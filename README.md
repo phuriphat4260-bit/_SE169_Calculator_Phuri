@@ -3,8 +3,11 @@
 
 # ฟีเจอร์การทำงาน (Features)
 1. เครื่องคิดเลขนี้ทำงานผ่าน COmmandline (Terminal)
-2. มีฟังก์ชันทางคณิตศาสตร์เบื้องต้นและขั้นสูงดังนี้
-    2.1 + การบวก (Addition)
-    2.2 - การลบ (Subtraction)
-    2.3 * การคูณ (Multiplication)
-    2.4 / การหาร (Division)
+2. มีฟังก์ชันทางคณิตศาสตร์เบื้องต้นและขั้นสูงดังนี้ :
+-  + การบวก (Addition)
+-  - การลบ (Subtraction)
+-  * การคูณ (Multiplication)
+-  / การหาร (Division)
+
+## วิธ๊การใช้งาน (How to Run)
+1. Clone repository นี้ลงในเครื่องของคุณ
